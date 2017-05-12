@@ -1,8 +1,8 @@
 ## 1.x
 
-### 1.0.1
+### 1.0.2
 
-* Version bump
+* Update CHANGELOG.md
 
 ### 1.0.0
 
