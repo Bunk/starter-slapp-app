@@ -1,5 +1,9 @@
 ## 1.x
 
+### 1.0.4
+
+* Update README.md
+
 ### 1.0.3
 
 * Update CHANGELOG.md
