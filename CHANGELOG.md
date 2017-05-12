@@ -1,5 +1,9 @@
 ## 1.x
 
+### 1.0.13
+
+* Remove the TEST text from the README
+
 ### 1.0.12
 
 * Update README.md
