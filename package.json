@@ -1,6 +1,6 @@
 {
   "name": "starter-slapp-app",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Basic Slack app using the Slapp library and Slack Events API",
   "scripts": {
     "watch": "nodemon server.js",
