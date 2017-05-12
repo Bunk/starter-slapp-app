@@ -1,5 +1,9 @@
 ## 1.x
 
+### 1.0.6
+
+* Update README.md
+
 ### 1.0.5
 
 * Update README.md
