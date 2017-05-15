@@ -1,5 +1,9 @@
 ## 1.x
 
+### 1.2.0
+
+* Testing more changes with bucko's deployment
+
 ### 1.1.1
 
 undefined
