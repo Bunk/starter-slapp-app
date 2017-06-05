@@ -1,7 +1,8 @@
 debug: true
 
 branches:
-  exclude: [ develop, auto-tag* ]
+  include: [ master ]
+  exclude: [ develop, auto-tag-* ]
 
 build:
   test:
